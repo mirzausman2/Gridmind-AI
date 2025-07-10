@@ -1,0 +1,15 @@
+gridmind-ai/
+├── .gitignore
+├── README.md
+├── frontend/
+│   └── (React + Tailwind UI will go here)
+├── backend/
+│   └── (Express + Node API for AI & reputation)
+├── ai-engine/
+│   └── (Prompt templates, GPT/UOMI integration)
+├── smart-contracts/
+│   └── (Solidity contracts for SBT or reputation tokens)
+├── public/
+│   └── (Assets, images, logos if needed)
+└── docs/
+    └── architecture-diagram.png (optional)
