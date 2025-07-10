@@ -1,0 +1,5 @@
+Prompt:
+"Analyze this player's behavior in the game and generate a short bio that includes their preferred strategy, faction alignment, and in-game decisions."
+
+Output: 
+"Commander X prefers long-range tactics, aligns with the Vanguard faction, and often leads ambush missions. Known for high-risk decisions."
